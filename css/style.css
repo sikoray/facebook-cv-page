@@ -560,11 +560,28 @@ height: 40px;
 }
 
 #panel{
-  width: 100px;
-  height: 150px;
-margin-left:10%;
+    width: 47vw;
+    max-width: 50%;
+    height: 170px;
+    margin-left: 19vw;
 }
 
+.product-gallery-popup .product-popup-content {
+    position: absolute;
+    width: 90vw;
+    height: auto;
+    min-height: 66vh;
+    top: inherit!important;
+   left: inherit!important; 
+   margin-left: 5vw!important; 
+   margin-top: 5vh!important; 
+    margin: 0!important;
+    background-color: #fff;
+    overflow: hidden;
+    z-index: 5;
+    border-radius: 3px;
+    max-width: 100%;
+}
 
 
 
