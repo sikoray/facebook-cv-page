@@ -286,7 +286,6 @@ a {
     overflow: hidden;
     z-index: 5;
     border-radius: 3px;
-        max-width: 100%;
 }
 .product-information,
 .product-image {
